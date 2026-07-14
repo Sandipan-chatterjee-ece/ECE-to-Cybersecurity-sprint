@@ -4,7 +4,7 @@
 
 
 ### july 11 Day 11 log
-**Cisco Theoretical Focus:** Completed 50% of the "Build a Home Network" module.Mastered local area network (LAN) topologies,physical router logic,and wireless acess point devloyment.
+**Cisco Theoretical Focus:** Completed 50% of the "Build a Home Network" module.Mastered local area network (LAN) topologies,physical router logic,and wireless acess point deployment.
 
 **Try hack me Practicle Lab:** Sucesfully launched my workspace environment and completedthe **Networking Fundamentals** room. Physically traced how digital packets encapsulationmaps to the foundational network protocols.
 
