@@ -12,5 +12,15 @@
 ***ECE Domain Mapping:** Transformed my academic communications engineeringtheory directlyinto active logic-layer network architecture troubleshooting skills.
 
 
+###Day 13 (Log yestarday)
+**Status update:** Paused screen time to mitigate acute congintative fatigue and reset mental focus.Managing physically burnout parameters
+ensures long -term training consistency
+
+###Day 14 log (Toaday)
+* **CISCO Theoretical focus:** Recoverred with massive momentum,smashing through modules of Networking basics,Mastered data encapsulationprotocols,Physical network media(copper,fiber optics), and The acess layer(MAC aadressing and localswitch framing).
+**Try hack me Practicle lab:**Sucessfully completed the **IntroductoryNetworking** laboratory modules.Gained live command -line diagnostic experiance across 7 core infrastructures sectors,including architecture mapping,data encapsulation logic, and running network utilities(**Ping,Traceroute,WHOIS,and Dig**)
+[ Day 14 Try Hack Me verification] (day14_proof.png) 
+
+
 
 
