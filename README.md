@@ -29,7 +29,7 @@ ensures long -term training consistency
 
   ### Day 17 log (Toaday- July 17 )
   *  ** CISCO Theoritacal Focus:** Executed a massive 6-hour theoretical infrastructure block.Smashed through *The Internet Protocol*,
-  *  IPv4 Architecture*, and *Network Segmentation/Subnetting* logic. Mastered Layer-3 packetencapsulation,binary masking,and how broadcast domainsare partitioned to protect enterprise networks.
+  *  IPv4 Architecture*, and *Network Segmentation/Subnetting* logic. Mastered Layer-3 packet encapsulation,binary masking,and how broadcast domains are partitioned to protect enterprise networks.
   *   **Try hack mePracticle Lab:** Shift diverted entirely to core CISCO architecture documentation toaday; practicle labortory simulation paths will resume next shift.
 
 
