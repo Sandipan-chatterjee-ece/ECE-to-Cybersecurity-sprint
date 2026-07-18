@@ -3,17 +3,17 @@
 **Location Target:** Tier-1 SOC / Network operation centre Internship
 
 
-### july 11 Day 11 log
-**Cisco Theoretical Focus:** Completed 50% of the "Build a Home Network" module.Mastered local area network (LAN) topologies,physical router logic,and wireless acess point deployment.
+### JULY 11 DAY 11 LOG ##
+**CISCO Theoretical Focus:** Completed 50% of the "Build a Home Network" module.Mastered local area network (LAN) topologies,physical router logic,and wireless acess point deployment.
 
 **Try hack me Practicle Lab:** Sucesfully launched my workspace environment and completedthe **Networking Fundamentals** room. Physically traced how digital packets encapsulation maps to the foundational network protocols.
 
 
-***ECE Domain Mapping:** Transformed my academic communications engineeringtheory directlyinto active logic-layer network architecture troubleshooting skills.
+***ECE Domain Mapping:** Transformed my academic communications engineering theory directly into active logic-layer network architecture troubleshooting skills.
 
 
 ### Day 13 (Log yestarday)
-**Status update:** Paused screen time to mitigate acute congintative fatigue and reset mental focus.Managing physically burnout parameters
+**STATUS UPDATE:** Paused screen time to mitigate acute congintative fatigue and reset mental focus.Managing physically burnout parameters
 ensures long -term training consistency
 
 ### Day 14 log (Toaday)
@@ -27,10 +27,17 @@ ensures long -term training consistency
 ### Day 16 Log (July 16)
 * **Cultural & wellness reset:** Allocated an official leave bock to observe the regional Rath Yatra festival holiday.
 
-  ### Day 17 log (Toaday- July 17 )
-  *  ** CISCO Theoritacal Focus:** Executed a massive 6-hour theoretical infrastructure block.Smashed through *The Internet Protocol*,
+  ### Day 17 log (Toaday- July 17 
+
+*   ### CISCO Theoritacal Focus:###  Executed a massive 6-hour theoretical infrastructure block.Smashed through *The Internet Protocol*,
   *  IPv4 Architecture*, and *Network Segmentation/Subnetting* logic. Mastered Layer-3 packet encapsulation,binary masking,and how broadcast domains are partitioned to protect enterprise networks.
   *   **Try hack mePracticle Lab:** Shift diverted entirely to core CISCO architecture documentation toaday; practicle labortory simulation paths will resume next shift.
+ 
+  *   ### Day 18 Log (Toaday - July 18)
+  *   **CISCO Theoretical Focus:** Pushed through an intense structutural block mastering advanced enterprise addressing layers.Complted
+  *   IPv6 Addressing Formats and Rules* and Dynamic Addressing with DHCP*.Mastered 128-bit hex formatting,compression rules,link-local addresses,and the complete mechanicsof the DHCP DORA leasing architecture.
+ 
+  *   **Try Hack Me practicle Lab:** Shift allocated 100% to complex Lyer-3 addressing theoryand syntax rules; interactive laboratory tools execution will resume next shift
 
 
 
