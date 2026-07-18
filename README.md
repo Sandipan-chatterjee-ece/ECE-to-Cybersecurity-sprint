@@ -34,8 +34,8 @@ ensures long -term training consistency
   *   **Try hack mePracticle Lab:** Shift diverted entirely to core CISCO architecture documentation toaday; practicle labortory simulation paths will resume next shift.
  
   *   ### Day 18 Log (Toaday - July 18)
-  *   **CISCO Theoretical Focus:** Pushed through an intense structutural block mastering advanced enterprise addressing layers.Complted
-  *   IPv6 Addressing Formats and Rules* and Dynamic Addressing with DHCP*.Mastered 128-bit hex formatting,compression rules,link-local addresses,and the complete mechanicsof the DHCP DORA leasing architecture.
+  *   **CISCO Theoretical Focus:** Pushed through an intense structutural block mastering advanced enterprise addressing layers.Completed
+  *   IPv6 Addressing Formats and Rules* and Dynamic Addressing with DHCP*.Mastered 128-bit hex formatting,compression rules,link-local addresses,and the complete mechanics of the DHCP DORA leasing architecture.
  
   *   **Try Hack Me practicle Lab:** Shift allocated 100% to complex Lyer-3 addressing theoryand syntax rules; interactive laboratory tools execution will resume next shift
 
