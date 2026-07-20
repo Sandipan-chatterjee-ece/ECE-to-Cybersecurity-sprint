@@ -37,7 +37,7 @@ ensures long -term training consistency
   *   **CISCO Theoretical Focus:** Pushed through an intense structutural block mastering advanced enterprise addressing layers.Completed
   *   IPv6 Addressing Formats and Rules* and Dynamic Addressing with DHCP*.Mastered 128-bit hex formatting,compression rules,link-local addresses,and the complete mechanics of the DHCP DORA leasing architecture.
  
-  *   **Try Hack Me practicle Lab:** Shift allocated 100% to complex Lyer-3 addressing theoryand syntax rules; interactive laboratory tools execution will resume next shift
+  *   **Try Hack Me practicle Lab:** Shift allocated 100% to complex Lyer-3 addressing theory and syntax rules; interactive laboratory tools execution will resume next shift
 
   *   ### Day 20 Log (Toaday-july 20)
   *   **CISCO Theoretical Focus:** Executed a deep infrastructure shift mastering packet delivery mechanics.completed *Gateways to other Networks* and *The ARP Process*. Analyze default gateway routing logic,ARP requests/reply framing and how hosts map dynamic layer-3 IP addresses to physical layer-2 MAC addresses.
