@@ -39,6 +39,13 @@ ensures long -term training consistency
  
   *   **Try Hack Me practicle Lab:** Shift allocated 100% to complex Lyer-3 addressing theoryand syntax rules; interactive laboratory tools execution will resume next shift
 
+  *   ### Day 20 Log (Toaday-july 20)
+  *   **CISCO Theoretical Focus:** Executed a deep infrastructure shift mastering packet delivery mechanics.completed *Gateways to other Networks* and *The ARP Process*. Analyze default gateway routing logic,ARP requests/reply framing and how hosts map dynamic layer-3 IP addresses to physical layer-2 MAC addresses.
+  *   **Try Hack Me Practicle Lab:** Successfully initialized the **Network Traffic Basics** labortory room. Processed the interactive profilling baseline modules,analyzing core structural traffic capture methodologies and verifying structural data payload visibility.
+  *   **Visual Evidence:**
+     [Day 20 TryHackMe verification](day20_proof.png)
+
+
 
 
 
