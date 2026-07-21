@@ -49,7 +49,8 @@ ensures long -term training consistency
 * **CISCO Theoretical Focus:** Overcame early localized network latency boundaries to maintain daily sprint momentum.Complte foundational modules of *Routing Between Networks* . Mastered Layer-3 IP Packet encapsulation parameters inside a layer-2 Ethernetframe.
 *  **TryHackMe Practicle Lab:** Successfully initialized the **Network Traffic Basics** labortory room.Completed interactive validations across both traffic sourcing/flow parameters and promisicious mode interface states,mapping live packetcapture observations directly to CISCO encapsulation theory
 *  **Visual Evidence:**
-  [Day 21 TryHackMe Verification](day21_proof.png)<img width="369" height="158" alt="day_21proof" src="https://github.com/user-attachments/assets/93eaf40b-b3da-4a58-967d-2f46db4a748c" />
+  [Day 21 TryHackMe Verification](day21_proof.png)<img width="369" height="158" alt="day21_proof" src="https://github.com/user-attachments/assets/57675f39-8e7f-4155-a44a-225324dd76d7" />
+
 
 
 
