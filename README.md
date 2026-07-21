@@ -19,7 +19,8 @@ ensures long -term training consistency
 ### Day 14 log (Toaday)
 * **CISCO Theoretical focus:** Recoverred with massive momentum,smashing through modules of Networking basics,Mastered data encapsulationprotocols,Physical network media(copper,fiber optics), and The acess layer(MAC aadressing and localswitch framing).
 ***Try Hack me Practicle lab:**Sucessfully completed the **IntroductoryNetworking** laboratory modules.Gained live command -line diagnostic experiance across 7 core infrastructures sectors,including architecture mapping,data encapsulation logic, and running network utilities(**Ping,Traceroute,WHOIS,and Dig**)
-[ Day 14 Try Hack Me verification] (day14_proof.png)
+[ Day 14 Try Hack Me verification] (day14_proof.png)<img width="1334" height="537" alt="day 14_proof" src="https://github.com/user-attachments/assets/ed755ae3-3ca4-4ce5-87b3-59acbe275d8f" />
+
 
 ### Day 15 log (July 15)
 *   **Infrastructure Status:** Encountered localized network connectivity dropouts.Training shift paused due to baseline hardware routing limitations.
@@ -47,7 +48,7 @@ ensures long -term training consistency
 
 ### Day 21 Log(Toaday-july 21)
 * **CISCO Theoretical Focus:** Overcame early localized network latency boundaries to maintain daily sprint momentum.Complte foundational modules of *Routing Between Networks* . Mastered Layer-3 IP Packet encapsulation parameters inside a layer-2 Ethernetframe.
-*  **TryHackMe Practicle Lab:** Successfully initialized the **Network Traffic Basics** labortory room.Completed interactive validations across both traffic sourcing/flow parameters and promisicious mode interface states,mapping live packetcapture observations directly to CISCO encapsulation theory
+*  **TryHackMe Practicle Lab:** Successfully initialized the **Network Traffic Basics** labortory room.Completed interactive validations across both traffic sourcing/flow parameters and promisicious mode interface states,mapping live packet capture observations directly to CISCO encapsulation theory
 *  **Visual Evidence:**
   [Day 21 TryHackMe Verification](day21_proof.png)<img width="369" height="158" alt="day21_proof" src="https://github.com/user-attachments/assets/57675f39-8e7f-4155-a44a-225324dd76d7" />
 
