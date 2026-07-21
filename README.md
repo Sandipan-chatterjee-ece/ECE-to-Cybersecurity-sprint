@@ -44,7 +44,8 @@ ensures long -term training consistency
   *   **CISCO Theoretical Focus:** Executed a deep infrastructure shift mastering packet delivery mechanics.completed *Gateways to other Networks* and *The ARP Process*. Analyze default gateway routing logic,ARP requests/reply framing and how hosts map dynamic layer-3 IP addresses to physical layer-2 MAC addresses.
   *   **Try Hack Me Practicle Lab:** Successfully initialized the **Network Traffic Basics** labortory room. Processed the interactive profilling baseline modules,analyzing core structural traffic capture methodologies and verifying structural data payload visibility.
   *   **Visual Evidence:**
-     [Day 20 TryHackMe verification](day20_proof.png)
+     [Day 20 TryHackMe verification](day20_proof.png)<img width="733" height="166" alt="day20_proof" src="https://github.com/user-attachments/assets/70cc4c4c-e80e-4891-adc4-d9f3aff61950" />
+
 
 ### Day 21 Log(Toaday-july 21)
 * **CISCO Theoretical Focus:** Overcame early localized network latency boundaries to maintain daily sprint momentum.Complte foundational modules of *Routing Between Networks* . Mastered Layer-3 IP Packet encapsulation parameters inside a layer-2 Ethernetframe.
