@@ -53,6 +53,13 @@ ensures long -term training consistency
 *  **Visual Evidence:**
   [Day 21 TryHackMe Verification](day21_proof.png)<img width="369" height="158" alt="day21_proof" src="https://github.com/user-attachments/assets/57675f39-8e7f-4155-a44a-225324dd76d7" />
 
+  ### Day 22 Log (Toaday-july 22)
+  *  **CISCO Theoretical Focus:** Smashed through the entire final core module of *Routing between networks*. Mastered host routing table mechanics,static vs dynamic path metrics,and how Layer-3 IP data packets are encapsulated inside Layer-2 Ethernet frames to cross different subnets.
+  *  **TryHackMe Practicle Lab:** Pivoted to the **What is networking?** room suite.completed the interactive *Identify devices on network* module,successfully verifying the operational boundaries of logical Lyer-3 IP addressing schemas mapping to physical Layer-2 MAC interfaces.
+  *  **Visual Evidence:**
+  *  [Day 22 TryHackMe Verification](day22_proof.png)<img width="323" height="79" alt="day22_proof" src="https://github.com/user-attachments/assets/18800c52-2e3f-4fff-b701-ad11b9ad21a5" />
+
+
 
 
 
