@@ -64,7 +64,8 @@ ensures long -term training consistency
   *   **TryHackMe Practicle Lab:** Successfully initialized **What Is Networking?** room suite.completed the interactive *Ping (ICMP)*
      connectivitty section,testing end to end transport pathways and validating ICMP echo request/reply structures mapped againts Layer-4 port logic.
 *   **Visual Evidence:**
-*   [Day 23 TryHackMe Verification](day23_proof.png)
+*   [Day 23 TryHackMe Verification](day23_proof.png)<img width="366" height="109" alt="day23_proof" src="https://github.com/user-attachments/assets/632c5974-68fb-4c42-81e9-3442e83ee75e" />
+
 
 
 
