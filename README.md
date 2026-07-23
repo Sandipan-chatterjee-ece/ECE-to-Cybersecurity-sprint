@@ -6,7 +6,7 @@
 ### JULY 11 DAY 11 LOG ##
 **CISCO Theoretical Focus:** Completed 50% of the "Build a Home Network" module.Mastered local area network (LAN) topologies,physical router logic,and wireless acess point deployment.
 
-**Try hack me Practicle Lab:** Sucesfully launched my workspace environment and completedthe **Networking Fundamentals** room. Physically traced how digital packets encapsulation maps to the foundational network protocols.
+**Try hack me Practicle Lab:** Sucesfully launched my workspace environment and completed the **Networking Fundamentals** room. Physically traced how digital packets encapsulation maps to the foundational network protocols.
 
 
 ***ECE Domain Mapping:** Transformed my academic communications engineering theory directly into active logic-layer network architecture troubleshooting skills.
@@ -58,6 +58,13 @@ ensures long -term training consistency
   *  **TryHackMe Practicle Lab:** Pivoted to the **What is networking?** room suite.completed the interactive *Identify devices on network* module,successfully verifying the operational boundaries of logical Layer-3 IP addressing schemas mapping to physical Layer-2 MAC interfaces.
   *  **Visual Evidence:**
   *  [Day 22 TryHackMe Verification](day22_proof.png)<img width="323" height="79" alt="day22_proof" src="https://github.com/user-attachments/assets/18800c52-2e3f-4fff-b701-ad11b9ad21a5" />
+
+  ### Day 23 Log (Toaday-july 23)
+  *  **CISCO Theoretical Focus:** Smashed through the entire core module covering the Transport Layer (TCP and UDP protocols).Mastered the mechanics of the TCP Three-Way Handshake(SYN,SYN-ACK,ACK), reliability flags, and compared them directly to the lightweight,connectionless delivery architecture of UDP streams.
+  *   **TryHackMe Practicle Lab:** Successfully initialized **What Is Networking?** room suite.completed the interactive *Ping (ICMP)*
+     connectivitty section,testing end to end transport pathways and validating ICMP echo request/reply structures mapped againts Layer-4 port logic.
+*   **Visual Evidence:**
+*   [Day 23 TryHackMe Verification](day23_proof.png)
 
 
 
