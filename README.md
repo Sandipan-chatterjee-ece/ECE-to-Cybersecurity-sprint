@@ -66,6 +66,11 @@ ensures long -term training consistency
 *   **Visual Evidence:**
 *   [Day 23 TryHackMe Verification](day23_proof.png)<img width="366" height="109" alt="day23_proof" src="https://github.com/user-attachments/assets/632c5974-68fb-4c42-81e9-3442e83ee75e" />
 
+### Day 24 Log (Toaday july-24)
+*   **CISCO Theoretical Focus:** Successfully mastered The Aplicattion Layer module .Analyzed the core protocols that drive web applications and networking services,focusing deply on HTTP/HTTPS request-response cycles,DNS name resolution mechanics DHCP automated IP allocancation , and FTP transport boundaries
+*   **TryHackMe Practicle Lab:** Dedicated 100% toaday,s technical block to advance Layer-7 architecture and protocol flows .Interactive browser terminal simulations will resume next shift to allign with defensive scanning modules.
+
+
 
 
 
