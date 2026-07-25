@@ -70,6 +70,12 @@ ensures long -term training consistency
 *   **CISCO Theoretical Focus:** Successfully mastered The Aplicattion Layer module .Analyzed the core protocols that drive web applications and networking services,focusing deply on HTTP/HTTPS request-response cycles,DNS name resolution mechanics DHCP automated IP allocancation , and FTP transport boundaries
 *   **TryHackMe Practicle Lab:** Dedicated 100% toaday,s technical block to advance Layer-7 architecture and protocol flows .Interactive browser terminal simulations will resume next shift to allign with defensive scanning modules.
 
+### Day 25 Log (Toaday-july25)
+*  **CISCO Theoretical Focus:** Smashed through the entire module covering networks Testing utilities.Mastered the diagnostic mechanics of standared network utilities,analyzing ICMP echo request/reply cycles via **ping**,network path hop limits,and packet latency tracking via **traceroute**/**tracert** [index].
+*  **TryHackMe Practicle Lab:** Pivoted to the **Intro to offensive security** baseline suite.completed the interactive reconnaissance modules,validating how network testing utilized dynamical to scope target configurationsand map active host transport perimeters[index]
+*  **Visual Evidence:**
+   [Day 25 TryHackMe Verification](day25_proof.png)
+
 
 
 
