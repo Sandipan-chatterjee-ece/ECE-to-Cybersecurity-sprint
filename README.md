@@ -74,7 +74,7 @@ ensures long -term training consistency
 *  **CISCO Theoretical Focus:** Smashed through the entire module covering networks Testing utilities.Mastered the diagnostic mechanics of standared network utilities,analyzing ICMP echo request/reply cycles via **ping**,network path hop limits,and packet latency tracking via **traceroute**/**tracert** [index].
 *  **TryHackMe Practicle Lab:** Pivoted to the **Intro to offensive security** baseline suite.completed the interactive reconnaissance modules,validating how network testing utilized dynamical to scope target configurationsand map active host transport perimeters[index]
 *  **Visual Evidence:**
-*  [Day 25 TryHackMe Verification] (day25_proof.png)
+*  [Day 25 TryHackMe Verification](day25_proof.png)
 
 
 
