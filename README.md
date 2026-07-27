@@ -78,6 +78,14 @@ ensures long -term training consistency
 
 *  [Day 25 TryHackMe Verification](day25_proof.png)
 
+### Day 27 Log (Toaday-july 27)
+* **CISCO Theoretical Focus:** Officially completed the core infrastructure block: *Networking Devices and intitial configuration*.
+  Completed the first half of the critical *Network Design* module, mastering physical vs logical enterprise topologies,local area network structural bounds, and infrastructure hierarchy layers.
+  **TryHackMe Practicle Lab:** Successfully initialized the *Introduction to lan* sandbox suite.Processed foundational validation modules tracking structural network topologies and local area hardware layers,mapping live browser-simulated node routing directly to cisco design
+  parameters.
+* **Visual Evidence:**
+  [Day 27 TryHackMe Verification](day27_proof.png)<img width="939" height="601" alt="day27_proof" src="https://github.com/user-attachments/assets/94053a00-6409-4e2a-8adf-0017b1d4d729" />
+
 
 
 
