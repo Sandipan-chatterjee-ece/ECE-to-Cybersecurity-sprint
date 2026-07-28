@@ -86,6 +86,13 @@ ensures long -term training consistency
 * **Visual Evidence:**
   [Day 27 TryHackMe Verification](day27_proof.png)<img width="939" height="601" alt="day27_proof" src="https://github.com/user-attachments/assets/94053a00-6409-4e2a-8adf-0017b1d4d729" />
 
+  ### Day 28 Log (Toaday-july 28)
+  * **CISCO Theoretical Focus:** Adavance deep into infrastructure design models.Fully mastered the Hierarchical Network Design framework,analyzing the operational parameters of the access, Distribution, and core infrastructure layers. Evaluated baseline cloud service modules (IaaS,PaaS,SaaS) and hypervisior virtualization mechanics.
+  * **TryHackMe Practicle Lab:** Continued execution inside the infrastructure  track.completed specialized validation modules covering **DHCP** automated IP allocation and **ARP** logical-to-physical address mappings, verifying how device identification rules function across local area layers.
+  * **Visual Evidence:**
+   [Day 28 TryHackMe Verification](day28_proof.png)<img width="237" height="105" alt="day28_proof" src="https://github.com/user-attachments/assets/7bb926de-4ec2-4c83-8a80-879e68878a1c" />
+
+
 
 
 
