@@ -92,6 +92,13 @@ ensures long -term training consistency
   * **Visual Evidence:**
    [Day 28 TryHackMe Verification](day28_proof.png)<img width="237" height="105" alt="day28_proof" src="https://github.com/user-attachments/assets/7bb926de-4ec2-4c83-8a80-879e68878a1c" />
 
+   ### Day 29 Log (Today-july 29)
+*  **CISCO Theoretical Focus:** Explored low-level network mechanics.Fully mstered the Binary/Hexadecimal Number Systems required for addressing calculations.Analyzed Ethernet physical layer operational standards and decode the structural fields of a Layer-2 Ethernet Frame (Preamble, SFD ,Source/Destination MAC addresses, Ethertype, and  FCS )
+*  **TryHackMe Practicle Labs:** Successfully initialized the specialized **Networking concepts** room.Completed targeted interactive validations across the **OSI Model** core task layers,analyzing structural data link properties  and physical MAC layer framing parameters to match  **CISCO**frame encapsulation bounds.
+*  **Visual Evidence:**
+  [Day 29 TryHackMe Verification](day29_proof.png)<img width="182" height="118" alt="day29_proof" src="https://github.com/user-attachments/assets/ef8a5f3c-7938-413c-9326-84c6e829d12d" />
+
+
 
 
 
