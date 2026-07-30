@@ -97,6 +97,13 @@ ensures long -term training consistency
 *  **TryHackMe Practicle Labs:** Successfully initialized the specialized **Networking concepts** room.Completed targeted interactive validations across the **OSI Model** core task layers,analyzing structural data link properties  and physical MAC layer framing parameters to match  **CISCO**frame encapsulation bounds.
 *  **Visual Evidence:**
   [Day 29 TryHackMe Verification](day29_proof.png)<img width="182" height="118" alt="day29_proof" src="https://github.com/user-attachments/assets/ef8a5f3c-7938-413c-9326-84c6e829d12d" />
+  ### Day 30 Log (Toaday-july 30)
+  * **CISCO Theoretical Focus:** Successfully completed the core *Networking Devices and Initial Configuration* module.Mastered ethernet physical hardware addressing mechanics and evaluted the operational logic behind dynamic MAC Address Table generation and frame forwarding states (filtering,flooding,and selective forwarding) inside layer-2 switch fabrics.
+  *  **CISCO Practicle Lab Suite:** Executed built-ininteractive frame transmission tracking modules.Analyzed host-to-switch datalink packet paths live,validating hardwre destination interface mapping directly againts simulated *MAC* address <img width="729" height="465" alt="day30_proof" src="https://github.com/user-attachments/assets/9984e9d7-bd61-42e9-afef-c851b2445d88" />
+registration fields.
+  *  **Visual Evidence:**
+    [Day 30 Frame Forwarding Verification](day30_proof.png) 
+
 
 
 
