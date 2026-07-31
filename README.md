@@ -102,7 +102,14 @@ ensures long -term training consistency
   *  **CISCO Practicle Lab Suite:** Executed built-ininteractive frame transmission tracking modules.Analyzed host-to-switch datalink packet paths live,validating hardwre destination interface mapping directly againts simulated *MAC* address <img width="729" height="465" alt="day30_proof" src="https://github.com/user-attachments/assets/9984e9d7-bd61-42e9-afef-c851b2445d88" />
 registration fields.
   *  **Visual Evidence:**
-    [Day 30 Frame Forwarding Verification](day30_proof.png) 
+    [Day 30 Frame Forwarding Verification](day30_proof.png)
+###Day 31 Log (Toaday-July 31)
+* **CISCO Theoretical Focus:** Explored structural network layer plumbing.Fully mastered the mechanics of **Data Encapsulation**,
+  analyzing how Protocol Data Units (PDUs) transtion down the stack. Decode **IP Encapsulation** fields within the Layer-3 Network Layer header architecture.
+  * **TryHackMe Practicle Lab:** Successfully initialized the specilized **Networking Concepts** room.Completed interactive validations tracking **TCP/IP**,logical network encapsulation boundaries .IP subnets, and Layer-4 **TCP/UDP transport mechanics**, verifying connection-orientedvs connectionless traffic states.
+  * **Visual Evidence:**
+    [Day 31 IP Encapsulation Verification]<img width="328" height="220" alt="day31_proof" src="https://github.com/user-attachments/assets/7af3fb17-7125-4499-9b80-70ca7f043328" />
+(day31_proof.png)
 
 
 
