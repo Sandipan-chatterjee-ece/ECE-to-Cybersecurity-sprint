@@ -110,6 +110,12 @@ registration fields.
   * **Visual Evidence:**
     [Day 31 IP Encapsulation Verification]<img width="328" height="220" alt="day31_proof" src="https://github.com/user-attachments/assets/7af3fb17-7125-4499-9b80-70ca7f043328" />
 (day31_proof.png)
+### Day 35 Log (Toaday-August 4)
+* **CISCO Theoretical Focus:** Advanced deep into logical layer-3 addressing properties.Fully mastered structural variations between **IPv4 dotted-decimal headers** and next -generation **IPv6 hexadecimal address space architectectures** .Evaluted packet field parameters,including flow labels,payload lengths, and next header pointers.
+* **CISCO Practicle Lab Suite:** Executed built-in interactive packet layer modules.Analyzed structural data transactions across layer-3 protocol boundaries,validating 32-bit and 128-bit address space variations directly againts simulated header mapping fields.
+* **Visual Evidence:**
+  [Day 35 IP Addressing Verification](day35_proof.png)<img width="760" height="306" alt="day35_proof" src="https://github.com/user-attachments/assets/5def36d3-b319-4be5-8733-21b5bcd8fffc" />
+
 
 
 
