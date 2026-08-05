@@ -115,6 +115,12 @@ registration fields.
 * **CISCO Practicle Lab Suite:** Executed built-in interactive packet layer modules.Analyzed structural data transactions across layer-3 protocol boundaries,validating 32-bit and 128-bit address space variations directly againts simulated header mapping fields.
 * **Visual Evidence:**
   [Day 35 IP Addressing Verification](day35_proof.png)<img width="760" height="306" alt="day35_proof" src="https://github.com/user-attachments/assets/5def36d3-b319-4be5-8733-21b5bcd8fffc" />
+  ### Day 36 Log (Toaday-august 5)
+  * **CISCO Theoretical Focus:** Explored advanced Layer-3 subnetting mechanics.Fully mastered the boundaries between **Network and Host Portions** using custom **Subnet Masks** and CIDR **Prefix Lengths**.Evaluated bitwise host application parameters by calculating **Log AND operations** on binary bit streams.
+  * **CISCO Practicle Lab Suite:** Executed built-in interactive subnet calculation modules.Analyzed structural host network routing boundaries,validating binary masking transitions directly againts simulated logical address mapping fields.
+  *  **Visual Evidence:**
+    [Day 36 Subnetting Verification](day36_proof.png)<img width="742" height="452" alt="day36_proof" src="https://github.com/user-attachments/assets/0cd7f2fc-4a8f-4b41-99c7-ce7ba7b50356" />
+
 
 
 
