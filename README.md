@@ -97,29 +97,40 @@ ensures long -term training consistency
 *  **TryHackMe Practicle Labs:** Successfully initialized the specialized **Networking concepts** room.Completed targeted interactive validations across the **OSI Model** core task layers,analyzing structural data link properties  and physical MAC layer framing parameters to match  **CISCO**frame encapsulation bounds.
 *  **Visual Evidence:**
   [Day 29 TryHackMe Verification](day29_proof.png)<img width="182" height="118" alt="day29_proof" src="https://github.com/user-attachments/assets/ef8a5f3c-7938-413c-9326-84c6e829d12d" />
+  
   ### Day 30 Log (Toaday-july 30)
   * **CISCO Theoretical Focus:** Successfully completed the core *Networking Devices and Initial Configuration* module.Mastered ethernet physical hardware addressing mechanics and evaluted the operational logic behind dynamic MAC Address Table generation and frame forwarding states (filtering,flooding,and selective forwarding) inside layer-2 switch fabrics.
   *  **CISCO Practicle Lab Suite:** Executed built-ininteractive frame transmission tracking modules.Analyzed host-to-switch datalink packet paths live,validating hardwre destination interface mapping directly againts simulated *MAC* address <img width="729" height="465" alt="day30_proof" src="https://github.com/user-attachments/assets/9984e9d7-bd61-42e9-afef-c851b2445d88" />
 registration fields.
   *  **Visual Evidence:**
     [Day 30 Frame Forwarding Verification](day30_proof.png)
-###Day 31 Log (Toaday-July 31)
+
+### Day 31 Log (Toaday-July 31)
 * **CISCO Theoretical Focus:** Explored structural network layer plumbing.Fully mastered the mechanics of **Data Encapsulation**,
   analyzing how Protocol Data Units (PDUs) transtion down the stack. Decode **IP Encapsulation** fields within the Layer-3 Network Layer header architecture.
   * **TryHackMe Practicle Lab:** Successfully initialized the specilized **Networking Concepts** room.Completed interactive validations tracking **TCP/IP**,logical network encapsulation boundaries .IP subnets, and Layer-4 **TCP/UDP transport mechanics**, verifying connection-orientedvs connectionless traffic states.
   * **Visual Evidence:**
     [Day 31 IP Encapsulation Verification]<img width="328" height="220" alt="day31_proof" src="https://github.com/user-attachments/assets/7af3fb17-7125-4499-9b80-70ca7f043328" />
 (day31_proof.png)
+
 ### Day 35 Log (Toaday-August 4)
 * **CISCO Theoretical Focus:** Advanced deep into logical layer-3 addressing properties.Fully mastered structural variations between **IPv4 dotted-decimal headers** and next -generation **IPv6 hexadecimal address space architectectures** .Evaluted packet field parameters,including flow labels,payload lengths, and next header pointers.
 * **CISCO Practicle Lab Suite:** Executed built-in interactive packet layer modules.Analyzed structural data transactions across layer-3 protocol boundaries,validating 32-bit and 128-bit address space variations directly againts simulated header mapping fields.
 * **Visual Evidence:**
   [Day 35 IP Addressing Verification](day35_proof.png)<img width="760" height="306" alt="day35_proof" src="https://github.com/user-attachments/assets/5def36d3-b319-4be5-8733-21b5bcd8fffc" />
+  
   ### Day 36 Log (Toaday-august 5)
   * **CISCO Theoretical Focus:** Explored advanced Layer-3 subnetting mechanics.Fully mastered the boundaries between **Network and Host Portions** using custom **Subnet Masks** and CIDR **Prefix Lengths**.Evaluated bitwise host application parameters by calculating **Log AND operations** on binary bit streams.
   * **CISCO Practicle Lab Suite:** Executed built-in interactive subnet calculation modules.Analyzed structural host network routing boundaries,validating binary masking transitions directly againts simulated logical address mapping fields.
   *  **Visual Evidence:**
     [Day 36 Subnetting Verification](day36_proof.png)<img width="742" height="452" alt="day36_proof" src="https://github.com/user-attachments/assets/0cd7f2fc-4a8f-4b41-99c7-ce7ba7b50356" />
+    
+    ### Day 37 Log (Toaday - August-6)
+  * **CISCO Theoretical Focus:** Fully mastered the operational parameters of **ARP (Address Resolution Protocol)**. Analyzed how Layer-2 broadcast networks dynamically discover physical hardware destinations by auditing ARP request-reply lifecycle loop and analyzing localized ARP table caching mechanics .
+  * **CISCO Practcle Lab Suite:** Executed an interactive **ARP Packet Trace** simulation suite.Traced live address resolution parameters down to the bit-header level,validating logical IP-to-MAC address mapping transitions directly again simulated infrastructure frame boundaries.
+  * **Visual Evidence:**
+   [Day 37 ARP Packet Trace Verification](day37_proof.png)<img width="1366" height="682" alt="day37_proof" src="https://github.com/user-attachments/assets/04601e5c-96bf-47d3-aec8-aec7ad9aa9e9" />
+ 
 
 
 
