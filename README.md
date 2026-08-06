@@ -127,7 +127,7 @@ registration fields.
     
     ### Day 37 Log (Toaday - August-6)
   * **CISCO Theoretical Focus:** Fully mastered the operational parameters of **ARP (Address Resolution Protocol)**. Analyzed how Layer-2 broadcast networks dynamically discover physical hardware destinations by auditing ARP request-reply lifecycle loop and analyzing localized ARP table caching mechanics .
-  * **CISCO Practcle Lab Suite:** Executed an interactive **ARP Packet Trace** simulation suite.Traced live address resolution parameters down to the bit-header level,validating logical IP-to-MAC address mapping transitions directly again simulated infrastructure frame boundaries.
+  * **CISCO Practicle Lab Suite:** Executed an interactive **ARP Packet Trace** simulation suite.Traced live address resolution parameters down to the bit-header level,validating logical IP-to-MAC address mapping transitions directly again simulated infrastructure frame boundaries.
   * **Visual Evidence:**
    [Day 37 ARP Packet Trace Verification](day37_proof.png)<img width="1366" height="682" alt="day37_proof" src="https://github.com/user-attachments/assets/04601e5c-96bf-47d3-aec8-aec7ad9aa9e9" />
  
