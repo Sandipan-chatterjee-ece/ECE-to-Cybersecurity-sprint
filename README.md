@@ -130,6 +130,13 @@ registration fields.
   * **CISCO Practicle Lab Suite:** Executed an interactive **ARP Packet Trace** simulation suite.Traced live address resolution parameters down to the bit-header level,validating logical IP-to-MAC address mapping transitions directly again simulated infrastructure frame boundaries.
   * **Visual Evidence:**
    [Day 37 ARP Packet Trace Verification](day37_proof.png)<img width="1366" height="682" alt="day37_proof" src="https://github.com/user-attachments/assets/04601e5c-96bf-47d3-aec8-aec7ad9aa9e9" />
+   
+   ### Day 38 Log (Toaday-August 7)
+  * **CISCO Theoretical Focus:** Explored Application Layer network services.Fully mastered the operational mechanics of the **Domain Name System (DNS)**,trackeing automated query-response recursive lookups.Formulated precise terminal lookups utilizing active **'ns lookup' , syntax stings** and validated query formating parameters through systemetic syntax checkers.
+  * **CISCO Practicle Lab Suite:** Executed interactive command-line DNS lookup trackingmodules.Analyzed application-to-network data boundaries live,validating host name-to-IP string mapping directly gaints simulated infrastructures packet boundaries.
+  * **Visual Evidence:**
+    [Day 38 DNS Services Verification](day38_proof.png)<img width="811" height="267" alt="day38_proof" src="https://github.com/user-attachments/assets/7ab2d7a7-9a8a-48d2-adbd-859fc3c18967" />
+
  
 
 
