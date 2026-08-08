@@ -136,6 +136,13 @@ registration fields.
   * **CISCO Practicle Lab Suite:** Executed interactive command-line DNS lookup trackingmodules.Analyzed application-to-network data boundaries live,validating host name-to-IP string mapping directly gaints simulated infrastructures packet boundaries.
   * **Visual Evidence:**
     [Day 38 DNS Services Verification](day38_proof.png)<img width="811" height="267" alt="day38_proof" src="https://github.com/user-attachments/assets/7ab2d7a7-9a8a-48d2-adbd-859fc3c18967" />
+    
+    ### Day 39 Log (Toaday-August 8)
+    * **CISCO Theoretical Focus:** Explored automated network configuration services.Fully mastered the operational mechanics of the **Dynamic Host Configuration Protocol (DHCP)**, trcking the four step DORA lifecycle (Discover,offer,request,acknowladge). Audited local sybnetwork lease management parameters within consumer-grade home router architectures.
+    * **CISCO Practicle Lab Suite:** Executed built-in interactive DHCP allocation and home router configuration tracking modules.Analyzed logical lease handshakes,validating dynamic IP Parameters distributions directly againts simulated infrastructure boundaries.
+    * **Visual Evidence:**
+    * [Day 39 DHCP Verification](day39_proof.png)<img width="760" height="385" alt="day39_proof" src="https://github.com/user-attachments/assets/eee91f8b-6dda-43fe-ad6c-01d5a36558a7" />
+
 
  
 
