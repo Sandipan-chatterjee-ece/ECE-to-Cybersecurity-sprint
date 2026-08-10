@@ -143,6 +143,14 @@ registration fields.
     * **Visual Evidence:**
     * [Day 39 DHCP Verification](day39_proof.png)<img width="760" height="385" alt="day39_proof" src="https://github.com/user-attachments/assets/eee91f8b-6dda-43fe-ad6c-01d5a36558a7" />
 
+    ### Day 41 Log (Toaday-August 10)
+    * **CISCO Theoretical Focus:** Fully mastered Layer-4  Transport Layer Protocol architectures.Analyzed the structural parameters of data transportation,evaluating connection - oriented **TCP reliability mechanics**versus connectionless **UDP transmission parameters**
+  Mapped multiplexed network communication flows through standarilized tracking **port numbers**.
+* **CISCO Practicle Lab Suite:** Executed an interactive **Wireshark Packet Analysis** session tracking session initialization flags.Dissected raw packets streams to verify the **TCP Three-Way Handshake(SYN,SYN-ACK,ACK)** and UDP connectioneless streams down to the bit header level,validating reliable transport layers directly againts simulated infrastructures boundaries.
+* **Visual Evidence:**
+  [Day 41 Transport Layer Verification](day41_proof.png)<img width="727" height="378" alt="day41_proof" src="https://github.com/user-attachments/assets/699478e7-5fe0-4e55-8c74-338933a44516" />
+
+
 
  
 
