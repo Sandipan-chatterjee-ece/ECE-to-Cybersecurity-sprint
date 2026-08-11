@@ -150,6 +150,13 @@ registration fields.
 * **Visual Evidence:**
   [Day 41 Transport Layer Verification](day41_proof.png)<img width="727" height="378" alt="day41_proof" src="https://github.com/user-attachments/assets/699478e7-5fe0-4e55-8c74-338933a44516" />
 
+  ### Day 42 Log (Toaday- August 11 )
+  * **CISCO Theoretical Focus:** Successfully done the Layer-4 Transport Layer curriculum block.Fully mastered the algorithemic mechanics of **Reliability and Flow Control**, analyzing window configurations, byte-level tracking **Sequence Numbers**, and positive **Acknowladgements (ACKs)** across conectionless and connection-oriented traffic fields.
+  * **CISCO Practicle Lab Suite:** Executed built-in interactive TCP operation and flow control tracking modules.Dissected state streams live, validating mathematical sequence transitions and dynamic window sizzing adjustments directly againts simulated  infrastructures boundaries.
+  * **Visual Evidence:**
+    [Day 42 Transport Layer completion](day42_proof.png)<img width="1071" height="689" alt="day42_proof" src="https://github.com/user-attachments/assets/29821e0d-ebca-4fd0-9e8c-c60f8c3d2000" />
+
+
 
 
  
