@@ -156,6 +156,13 @@ registration fields.
   * **Visual Evidence:**
     [Day 42 Transport Layer completion](day42_proof.png)<img width="1071" height="689" alt="day42_proof" src="https://github.com/user-attachments/assets/29821e0d-ebca-4fd0-9e8c-c60f8c3d2000" />
 
+    ### Day 43 Log (Toaday-August 12)
+    * **CISCO Theoretical Focus:** Advanced deep into infrastructures management and terminal interfaces.Fully mastered the hierarchical architecture of the **CISCO IOS operating system** analyzing navigation pathways between operational states including user EXEC mode.Privilleged EXEC mode, and Global configuration mode.
+    * **CISCO Practicle Lab Suite:** Executed interactive validation testing inside the **CISCO IOS CLI Syntax Checker**. Formulated precise navigation command strings ('enable','configure terminal','exit') to transition across system configuration layers down to the interface terminal level.
+    * **Visual Evidence:**
+      [Day 43 Cisco IOS Navigation Verification](day43_proof.png)<img width="710" height="307" alt="day43_proof" src="https://github.com/user-attachments/assets/dd680ecc-ec78-4485-80b2-6a2a284686c8" />
+
+
 
 
 
