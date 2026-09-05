@@ -225,6 +225,14 @@ registration fields.
             * **Visual Evidence:**
               [Day 57 PuTTY SSH SVI Connection Verification](day57_proof.png)<img width="694" height="454" alt="day57_proof" src="https://github.com/user-attachments/assets/91eec7e7-dcd0-4d42-82f1-43f45ab793ed" />
 
+              ### Day 58 Log (Toaday-September 5)
+            * **CISCO Theoretical Focus:** Did the Network Defense Core track.Analyzed infrastructure access hardening policies,evaluating how mandatory transit-layer encryption rule eliminate administrative vulnerability boundaries across corporate node layers.
+            * **CISCO Packet Tracer Lab Suite:** Successfully executed the comprehensive practicle lab **Packet Tracer-Configure SSH**.
+              Managed live infrastructure configurations to initialize domain parameters,deploy asymmetric cryptographical modules tracking keys('crypto key generate rsa'), restrict management parameters to modern protocols ('ip ssh version 2'), and hard line virtual type terminals ('line vty 0 15') againts plaintext terminal sniffing.
+            * **Visual Evidence:**
+              [Day 58 Packet Tracer SSH Verification](day58_proof.png)<img width="264" height="211" alt="day58_proof" src="https://github.com/user-attachments/assets/ceb982e1-2c56-41db-9a6a-230c1dc2a335" />
+
+
 
 
 
