@@ -249,6 +249,13 @@ registration fields.
             * **CISCO Practicle Lab Suite:** Executed terminal configuration sequences inside the interactive **Cisco IOS CLI Syntax Checker to configure the default gateway of a Layer-2 switch**. Formulated explict command syntax arrays ('ip default -gateway') to assign network egres pathway on management nodes,enabeling secure inter-network administrative session.
             * **Visual Evidence:**
               [Day 61 Switch Default Gateway Configuration](day61_proof.png)<img width="706" height="254" alt="day61_proof" src="https://github.com/user-attachments/assets/f6570f7d-7abd-4db6-ab8d-633ce1013c64" />
+
+              ### Day 62 Log (Toaday -September 10)
+            * **CISCO Theoretical Focus:** Completed the infrastructure design and multilayered network assembly parameters .started the systemetic rules behinf topological deployments ,evaluating the hierarchical mapping boundaries between Layer-2 switch domains and Layer-3 routing boundaries.
+            * **CISCO Structural Analysis Suite:** Audited comprehensive blueprints inside the **Packet Tracer Tutored Activity- Build A Switch Router Network**. Analyzed infrastructure initializezation guidlines, investegating cable media constraints ,port distribution protocols,and structural hardware layouts criteria required to build a resiliant local network environment.
+            * **Visual Evidence:**
+              [Day 62 Switch and Router Architecture Design](day62_proof.png)<img width="790" height="413" alt="day62_proof" src="https://github.com/user-attachments/assets/b9b2a260-f200-4c77-8f3c-7450a46aae47" />
+
  
  
 
