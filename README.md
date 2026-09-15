@@ -17,7 +17,7 @@
 ensures long -term training consistency
 
 ### Day 14 log (Toaday)
-* **CISCO Theoretical focus:** Recoverred with massive momentum,smashing through modules of Networking basics,Mastered data encapsulationprotocols,Physical network media(copper,fiber optics), and The acess layer(MAC aadressing and localswitch framing).
+* **CISCO Theoretical focus:** Recoverred with massive momentum,smashing through modules of Networking basics,Mastered data encapsulation protocols,Physical network media(copper,fiber optics), and The acess layer(MAC aadressing and localswitch framing).
 ***Try Hack me Practicle lab:**Sucessfully completed the **IntroductoryNetworking** laboratory modules.Gained live command -line diagnostic experiance across 7 core infrastructures sectors,including architecture mapping,data encapsulation logic, and running network utilities(**Ping,Traceroute,WHOIS,and Dig**)
 [ Day 14 Try Hack Me verification] (day14_proof.png)<img width="1334" height="537" alt="day 14_proof" src="https://github.com/user-attachments/assets/ed755ae3-3ca4-4ce5-87b3-59acbe275d8f" />
 
@@ -264,6 +264,13 @@ registration fields.
             * **Infrastructure incident & continious Report:**
             * **Impediment Profile:** Regional Local grid power outrage event across Malda.
             * **Operational Constraints:** Complete loss of external AC power distribution lines,unreacheble for long-formexecution states.
+           
+              ### Day 67 Log (Toaday- September 15)
+            * **CISCO Theoretical Focus:** Completed the logical tracking diagnostics and network verification rules and completed the operational criteriafor analyzing end-node connectivity parameters across distinct local area networks.
+            * **Infrastructure Diagnostic Suite:** Audited comprehensive evaluation guidlines for **Verifying End-to-End connectivity inside packet tracer**. Analyzed logical payloads paths,evaluating ICMP Echo Request-Rply mechanics.
+            * **Visual Evidence:**
+              [Day 67 End-to-End Verification Design](day67_proof.pnf)<img width="572" height="311" alt="day67_proof" src="https://github.com/user-attachments/assets/4b18cbd9-958f-4bb0-b7d2-cc5c899f742e" />
+ 
 
  
  
