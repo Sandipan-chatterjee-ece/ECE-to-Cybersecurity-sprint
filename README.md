@@ -270,6 +270,13 @@ registration fields.
             * **Infrastructure Diagnostic Suite:** Audited comprehensive evaluation guidlines for **Verifying End-to-End connectivity inside packet tracer**. Analyzed logical payloads paths,evaluating ICMP Echo Request-Rply mechanics.
             * **Visual Evidence:**
               [Day 67 End-to-End Verification Design](day67_proof.pnf)<img width="572" height="311" alt="day67_proof" src="https://github.com/user-attachments/assets/4b18cbd9-958f-4bb0-b7d2-cc5c899f742e" />
+
+              ### Day 68 Log (Toaday- September 16)
+            * **CISCO Theoretical Focus:** Completed into systematic core infrastructure fault isolation  and network layer diagnostic procedures. Evaluated systemic of gateway routing failures, subnetwork mismatches, and access list restriction across enterprise boundaries.
+            * **CISCO Packet Tracer Lab Suite:** Successfully executed the intensive practicle lab **Packet Tracer- Troubleshoot Default Gateway**. Logged into remote infrastructure node to audit interface properties, utilizing localized CLI tools ('ping','traceroute','show ip interface brief') to isolate and remediate faulty logical path configuration across active networks.
+            * **Visual Evidence:**
+              [Day 68 Default Gateway Troubleshooting](day68_proof.png)<img width="1107" height="337" alt="day68_proof" src="https://github.com/user-attachments/assets/4ba02498-68d8-4364-92d2-cd20600f20d3" />
+
  
 
  
