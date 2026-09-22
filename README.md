@@ -288,6 +288,13 @@ registration fields.
             * **CISCO Infrastructures Analysis Suite:** Audited diagnostic status codes across transit layers. Evaluated packet dropping onditions, investegating error flag structures including Net/Host unreacheble (v4 Codes 0/1), Port unreacheble (v4 Code 3), and no route to destination (v6 Code 1) parameters to isolate structural routing failures.
             * **Visual Evidence:**
               [Day 73 ICMP unreacheble codes verification](day73_proof.png)<img width="878" height="372" alt="day73_proof" src="https://github.com/user-attachments/assets/3c6a2fa8-8a91-4c30-8008-1a99c514c00b" />
+
+              ### Day 74 Log (Toaday-September 22)
+            * **CISCO Theoretical Focus:** Completed the logical tracking diagnostics and Layer-3 network packet lifecycle constraints.Then completed the operational parameters of **ICMPv4 and ICMPv6 Time Exceeded**  messaging frameworks.
+            * **CISCO Infrastructures Analysis Suite:** Audited dynamic network packet drop behaviours across transit nodes.Evaluated the operational flow of tracking **Time to Live (TIL)** fields in IPv4 and **Hop Limit** parameters in IPv6, investegating how transit routing nodes drop depleted payloads to mitigate infinite routing loops.
+            * **Visual Evidence:**
+              [Day 74 ICMP Time Exceeded Verification](day74_proof.png)<img width="462" height="556" alt="day74_proof" src="https://github.com/user-attachments/assets/d2a192d8-5eae-4ce8-b800-59c7456722b3" />
+
  
 
 
