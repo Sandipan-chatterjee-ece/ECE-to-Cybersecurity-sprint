@@ -295,6 +295,12 @@ registration fields.
             * **Visual Evidence:**
               [Day 74 ICMP Time Exceeded Verification](day74_proof.png)<img width="462" height="556" alt="day74_proof" src="https://github.com/user-attachments/assets/d2a192d8-5eae-4ce8-b800-59c7456722b3" />
 
+              ### Day 75 Log (Toaday-September 23)
+            * **CISCO Theoretical Focus:** Completed the logical tracking diagnostics and Next-Generation IPv6 network layer configurations. Completed theoperational parameters of the **Neighbour Discovery Protocol (NDP)** through automated **ICMPv6 messaging frameworks**.
+            * **CISCO Infrastructure Analysis Suite:** Audited multi-layered address resolution and auto-configuration states. Evaluated structural parameters for Router Solicitation (**RS**), Router Advertisment (**RA**), Neighbour Solictitation (**NS**),and neighbour advertisment (**NA**) flows to track dynamic link-local mappings withoutbrodcast traffic overhead.
+            * **Visual Evidence:**
+              [Day 75 ICMPv6 Messaging Verification](day75_proof.png)
+
  
 
 
