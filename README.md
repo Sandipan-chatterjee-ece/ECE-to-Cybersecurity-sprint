@@ -303,6 +303,13 @@ registration fields.
 
               ### Day 76 Log (Toaday-September 24)
             * **CISCO Theporetical Focus:** Completed the logical tracking diagnostics and network layer faultisolation procedures, executing. Evaluated systemetic criteria for host reachebelity verification metric across dual-stack IP boundaries.Basically today only learned about comprehensive assement block **Check your understanding in (ICMP Messages)**
+           
+              ### Day 78 Log (Toaday-September 26)
+            * **CISCO Theoretical Focus:** Completed deep into dynamic path verificationand infrastructure troubleshooting perimeters.Fully mastered the operational parameters of Layer-3 host diagnostics tools using standarlized ICMP echo parameters.
+            * **CISCO Practicle Analysis Suite:** Completed the verification  walkthrough **Ping-Test Connectivity. Analyzed real-world diagnostics scripts to evaluate end to end path boundaries,validation host reachebility states and interface round trip delay metrics directly againts bseline network perimeters.
+            * **Visual Evidence:**
+              [Day 78 Ping Connectivity Verification](day78_proof.png)<img width="480" height="206" alt="day78_proof" src="https://github.com/user-attachments/assets/9b316bbb-bf43-4159-bfd9-6e43220a81ed" />
+
 
  
 
