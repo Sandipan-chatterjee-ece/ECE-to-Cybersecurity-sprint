@@ -310,6 +310,13 @@ registration fields.
             * **Visual Evidence:**
               [Day 78 Ping Connectivity Verification](day78_proof.png)<img width="480" height="206" alt="day78_proof" src="https://github.com/user-attachments/assets/9b316bbb-bf43-4159-bfd9-6e43220a81ed" />
 
+              ### Day 79 Log (Toaday-September 28)
+            * **CISCO Theoretical Focus:** Completed theinfrastructure path verification, local subnet diagnostics, and Layer-3 fault isolation procedures.Completed the dignostic parameters required to verify gateway interfaces.
+            * **CISCO Practicle Analysis Lab Suite:** Completed the verification model **Ping Default Gateway**. Evaluated host-to-gateway routing loops, analyzing how ICMP echo frames dignose local area network boundaries and interface statue properties  before payloads  escalate to remote networks.
+            * **Visual Evidence:**
+              [Day 79 Gateway Path Verification](day79_pproof.png)<img width="618" height="485" alt="day79_proof" src="https://github.com/user-attachments/assets/4b941e3e-8314-48b0-8a7f-edebee302758" />
+
+
 
  
 
