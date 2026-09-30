@@ -314,7 +314,14 @@ registration fields.
             * **CISCO Theoretical Focus:** Completed theinfrastructure path verification, local subnet diagnostics, and Layer-3 fault isolation procedures.Completed the dignostic parameters required to verify gateway interfaces.
             * **CISCO Practicle Analysis Lab Suite:** Completed the verification model **Ping Default Gateway**. Evaluated host-to-gateway routing loops, analyzing how ICMP echo frames dignose local area network boundaries and interface statue properties  before payloads  escalate to remote networks.
             * **Visual Evidence:**
-              [Day 79 Gateway Path Verification](day79_pproof.png)<img width="618" height="485" alt="day79_proof" src="https://github.com/user-attachments/assets/4b941e3e-8314-48b0-8a7f-edebee302758" />
+              [Day 79 Gateway Path Verification](day79_pproof.png)<img width="618" height="485" alt="day79_proof" src="https://github.com/user-attachments/assets/4b941e3e-8314-48b0-8a7f-edebee302758" /> Practicle Analysis Suite:**
+
+              ### Day 81 Log (Toaday-September 30)
+            * **CISCO Theoretical Focus:** Completed into global internetworklayer path verification,remote routing dignostics,and wide-area infrastructure troubleshooting procedures. Completed the logical parameters required to verify remote destination host across external boundaries.
+            * **CISCO Practicle Analysis Suite:** Completed the verification mode *Ping a remote Host*. Evaluated multiple-hop packet traversal loops,analyzing how ICMP Echo frames query remote network address, calculate transit latency metrics,and test default gateway egress parameters across global boundaries.
+            * **Visual Evidence:**
+              [Day 81 Remote Host Path Verification](day81_proof.png)<img width="682" height="473" alt="day81_proof" src="https://github.com/user-attachments/assets/931f46ba-30f8-49b7-9c52-b1443671e9e4" />
+
 
 
 
