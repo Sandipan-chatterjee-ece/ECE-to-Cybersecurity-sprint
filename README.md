@@ -327,6 +327,12 @@ registration fields.
             * **Visual Evidence:**
               [Day 82 RTT and Hop Limit Verification](day82_proof.png)<img width="775" height="438" alt="day82_proof" src="https://github.com/user-attachments/assets/7858e0ae-e517-41d6-a006-b516567a6986" />
 
+              ### Day 84 Log (Toaday-October 3)
+            * **CISCO Theoretical Focus:** Completed the IPv4 TTL and IPv6 Hop Limit   and how traceroute takes advantage of TTL.
+            * **Visual Evidence:**
+              [Day 84 Traceroute Takes Advantage Of TTL Verification](day84_proof.png)<img width="724" height="425" alt="day84_proof" src="https://github.com/user-attachments/assets/dc614005-2d03-47a7-b7d1-06cedccfa1e5" />
+
+
 
 
 
